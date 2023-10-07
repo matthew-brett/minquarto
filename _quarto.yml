@@ -1,0 +1,11 @@
+project:
+  type: book
+
+book:
+  title: "Minimum quarto"
+  author: ["Matthew Brett"]
+  chapters:
+    - index.md
+    - test.qmd
+
+bibliography: refs.bib
