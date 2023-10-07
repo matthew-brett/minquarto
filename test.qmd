@@ -1,7 +1,0 @@
-# test
-
-```{python}
-from IPython.display import display, Markdown
-
-display(Markdown('$y$'))
-```

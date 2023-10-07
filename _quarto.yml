@@ -6,6 +6,8 @@ book:
   author: ["Matthew Brett"]
   chapters:
     - index.md
-    - test.qmd
+    - test.Rmd
+
+engine: jupyter
 
 bibliography: refs.bib
